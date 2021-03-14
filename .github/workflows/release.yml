@@ -6,7 +6,7 @@ on:
       - '**'
     tags:
       - '*'
-
+# hg
 jobs:
   goreleaser:
     runs-on: ubuntu-latest
